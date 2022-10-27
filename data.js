@@ -13,19 +13,19 @@ export let tweetsData = [
   },
   {
     handle: `@Elon ✅`,
-    profilePic: `images/bugatti.jpg`,
+    profilePic: `bugatti.jpg`,
     likes: 6500,
     retweets: 234,
     tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
     replies: [
       {
         handle: `@TomCruise ✅`,
-        profilePic: `images/bags.jpeg`,
+        profilePic: `bags.jpeg`,
         tweetText: `Yes! Sign me up! 😎🛩`,
       },
       {
         handle: `@ChuckNorris ✅`,
-        profilePic: `images/icon-dm.png`,
+        profilePic: `icon-dm.png`,
         tweetText: `I went last year😴`,
       },
     ],
@@ -35,14 +35,14 @@ export let tweetsData = [
   },
   {
     handle: `@NoobCoder12`,
-    profilePic: `images/crypto-punk.png`,
+    profilePic: `crypto-punk.png`,
     likes: 10,
     retweets: 3,
     tweetText: `Are you a coder if you only know HTML?`,
     replies: [
       {
         handle: `@StackOverflower ☣️`,
-        profilePic: `images/crypto-punk.png`,
+        profilePic: `crypto-punk.png`,
         tweetText: `No. Onviosuly not. Go get a job in McDonald's.`,
       },
       {
